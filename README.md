@@ -19,5 +19,5 @@
 - Поверхность должна быть светлая и не должна совпадать с цветом листа бумаги
 
 ## Данные
-- [Изображения объектов и фона](Intelligent-Placer/Data)
+- [Изображения объектов и фона](Intelligent-Placer/InputData)
 - [Тесты](Intelligent-Placer/Tests/Description.md)
